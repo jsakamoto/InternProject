@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="background-color: lightgray; margin: 0 auto 10px; padding: 20px 5px">The Open University of Hong Kong!!!</h2>
+
+<input type="button" value="OFF" onclick="OnSend1();"/>&nbsp;
+<input type="button" value="ON" onclick="OnSend();"/>
+<input type="text" id="showText"/>
+<script type="text/javascript">
+    function OnSend() {
+        var dataContent = { parameterName: "test" };
+        $.ajax({
+            url: '@Url.Action("HelloWorld")',
+            type: 'Post',
+            data: dataContent,
+            complete: function () { },
+            success: function (result) {
+                if (result.success == true) {
+                    $('#showText').val(result.show);
+                }
+            }
+
+        })
+    }
+</script>
+<script type="text/javascript">
+    function OnSend1() {
+        var dataContent = { parameterName: "test2" };
+        $.ajax({
+            url: '@Url.Action("HelloWorld2")',
+            type: 'Post',
+            data: dataContent,
+            complete: function () { },
+            success: function (result) {
+                if (result.success == true) {
+                    $('#showText').val(result.show);
+                }
+            }
+
+        })
+    }
+</script>

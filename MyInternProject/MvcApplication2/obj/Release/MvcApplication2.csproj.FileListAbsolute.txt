@@ -1,0 +1,17 @@
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\Test.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\Test.pdb
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.Helpers.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.Mvc.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.Razor.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.Helpers.xml
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.Mvc.xml
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.Razor.xml
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.xml
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Release\MvcApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Release\Test.dll
+C:\Users\Yuen\Documents\Visual Studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Release\Test.pdb
