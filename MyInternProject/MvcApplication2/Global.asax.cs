@@ -78,10 +78,10 @@ namespace MvcApplication2
                     {
                         CurrentState.sw1 = sw1;
                         CurrentState.led1 = GPIO25_LED1.Value != 0;
-                        Console.WriteLine("Pressed");
+                        Console.WriteLine("Button Pressed");
                     }
                 }
-                Thread.Sleep(200);
+                Thread.Sleep(100);
                 
             }
         }
