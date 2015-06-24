@@ -37,7 +37,7 @@ namespace MvcApplication2.Controllers
         }
         public ActionResult HelloWorld(string parameterName)
         {
-            Console.WriteLine("Turn On 25...");
+            Console.WriteLine("Turn On LED...");
             var gpio25 = TinyGPIO.Export(25);
             gpio25.Direction = (myapp.GPIODirection)GPIODirection.Out;
             gpio25.Value = 1;
@@ -50,7 +50,7 @@ namespace MvcApplication2.Controllers
         }
         public ActionResult HelloWorld2(string parameterName)
         {
-            Console.WriteLine("Turn Off 25...");
+            Console.WriteLine("Turn Off LED...");
 
             var gpio25 = TinyGPIO.Export(25);
             gpio25.Direction = (myapp.GPIODirection)GPIODirection.Out;
